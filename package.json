@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Edd Games",
+	"author": "Eduardo G",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
