@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Eduardo G",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/drSilence88/freecodecampChallengues/"
-	},
-	"author": "Eduardo G"
+	}
 }
